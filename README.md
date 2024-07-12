@@ -1,4 +1,4 @@
-# Time Series Predictability Classification
+# Time Series Predictability 
 
 This repository contains a script to classify time series based on their next data point predictability using various statistical metrics and features. The goal is to identify and rank time series according to their predictability and classify them into different groups.
 
